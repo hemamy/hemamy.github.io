@@ -5,7 +5,7 @@
 ### DNA-Linked Nanoparticles Superlattices
 
 
-| ![image](./images/dnanp_lattice.gif)|  ![image](./images/dnanp2.gif)|
+| ![image](./images/dnanp_lattice.gif){width=40%} |  ![image](./images/dnanp2.gif){width=40%} |
 |:---:|:---:|
 |Lattice|Unit-cell|
 
