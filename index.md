@@ -9,12 +9,14 @@
 <!-- 
 [Linkedin](https://www.linkedin.com/in/hemamy)\ ![image](./images/linkedin_logo.png){style="width: 10%;"}
 [Google Scholar](https://scholar.google.com/citations?user=kVimJkkAAAAJ&hl=en&oi=ao)\ ![image](./images/google_scholar_1.png){style="width: 10%;"} 
--->
 
 [![Linkedin](./images/linkedin_logo.png)](https://www.linkedin.com/in/hemamy)
 [![Google Scholar](./images/google_scholar_1.png)](https://scholar.google.com/citations?user=kVimJkkAAAAJ&hl=en&oi=ao)
 
+-->
 
+[Linkedin](https://www.linkedin.com/in/hemamy)
+[Google Scholar](https://scholar.google.com/citations?user=kVimJkkAAAAJ&hl=en&oi=ao)
 
 ## Theoretical and Computational Research Experience
 ### DNA-Linked Nanoparticles Superlattices
