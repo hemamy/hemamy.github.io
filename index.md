@@ -14,7 +14,7 @@
 
 test
 
-![image](./images/dnanp_lattice.gif){style="width: 40%; class:center;"}\  ![image](./images/dnanp2.gif){style="width: 40%; class: center;"}
+![image](./images/dnanp_lattice.gif){style="width: 40%; class: center;"}\  ![image](./images/dnanp2.gif){style="width: 40%; class: center;"}
 
 **Introduction:** Nanoparticle (NP) assemblies have numerous demonstrated and predicted applications, such as optical or electronic materials, biosensing, drug delivery and others. For many of these applications, an ordered structure of NPs, rather than an amorphous structure, is preferred or even necessary. One way to create ordered nanostructures is by taking advantage of the specific recognition and sequence control offered by DNA. Lattices with cubic diamond (CD) symmetry with nm scale spacing are predicted to have interesting optical properties, such as a complete optical band gap in 3D. Very recently, we create DNA-functionalized NPs with directional interactions that assemble into CD symmetry, opening the possibility to realize these novel materials.
 
