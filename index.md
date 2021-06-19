@@ -1,18 +1,16 @@
 # Welcome!
 
+[Linkedin](https://www.linkedin.com/in/hemamy)
+[Google Scholar](https://scholar.google.com/citations?user=kVimJkkAAAAJ&hl=en&oi=ao)
+
+[![Linkedin](./images/linkedin_logo.png)](https://www.linkedin.com/in/hemamy)
+[![Google Scholar](./images/google_scholar_1.png)](https://scholar.google.com/citations?user=kVimJkkAAAAJ&hl=en&oi=ao)
+
+
+
 
 ## Theoretical and Computational Research Experience
 ### DNA-Linked Nanoparticles Superlattices
-
-
-| ![image](./images/dnanp_lattice.gif){width=40%} |  ![image](./images/dnanp2.gif){width=40%} |
-|:---:|:---:|
-|Lattice|Unit-cell|
-
-
-![image](./images/dnanp_lattice.gif){width=40%}\  ![image](./images/dnanp2.gif){ width=40% }
-
-test
 
 ![image](./images/dnanp_lattice.gif){style="width: 40%; margin-left: auto; margin-right: auto;"}\  ![image](./images/dnanp2.gif){style="width: 40%; margin-left: auto; margin-right: auto;"}
 
@@ -49,6 +47,9 @@ test
 **Introduction:** Graphene, is a two-dimensional lattice of single-layered graphite, has attracted increasing attentions, due to its unique properties which promise fabrication of exciting nanotechnology-based devices in a broad range of potential applications in electronics, life sciences and many others. In recent years, graphene-based materials offer promising progress in biological and medical areas such as disease diagnosis, biosensing, cancer targeting, photothermal therapy and drug delivery. Graphene nanoribbon (GNR) is a 2d graphene sheet with high aspect ratio (the length is much longer than the width) are considered as a quasi 1d objects the limited space for electrons and phonons in the width of graphene nanoribbon results in an interesting properties like opening an electrical band gap as opposed to graphene with zero electrical band gap and change in phonon dispersion relation leading to changing in the light absorption of these material relative to graphene. GNRs have near-infrared absorption and they can be used in cancer photothermal therapy. On the other hand GNRs have sharp edges and can destructive effect on cell membrane so it is important to study their toxicity. So it is  important to study both useful and harmful aspects of GNR.
 
 **Research:** In my research I synthesized graphene oxide nanoribbon (GONR) by using chemical method to open up the carbon nanotube. And characterize them by analyzing Raman spectroscopy, XPS, AFM and optical absorption. I also used green tea to reduce GONRs to obtain GNRs using green tea and analyzed the optical absorption of theses structures. These GNRs and GONRs was used to study the effectiveness of GNR in cancer photothermal therapy studies and their toxicity effects on living cells.
+
+
+
 
 
 
