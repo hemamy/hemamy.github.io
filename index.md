@@ -3,9 +3,10 @@
 [Linkedin](https://www.linkedin.com/in/hemamy)
 [Google Scholar](https://scholar.google.com/citations?user=kVimJkkAAAAJ&hl=en&oi=ao)
 
+<!-- 
 [![Linkedin](./images/linkedin_logo.png)](https://www.linkedin.com/in/hemamy)
 [![Google Scholar](./images/google_scholar_1.png)](https://scholar.google.com/citations?user=kVimJkkAAAAJ&hl=en&oi=ao)
-
+-->
 
 
 
