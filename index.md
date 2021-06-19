@@ -39,7 +39,7 @@
 ### Graphene Nanoribbons
 
 
-![image](./images/afm.jpg { width=50% })
+![image](./images/afm.jpg){ width=50% }
 
 **Introduction:** Graphene, is a two-dimensional lattice of single-layered graphite, has attracted increasing attentions, due to its unique properties which promise fabrication of exciting nanotechnology-based devices in a broad range of potential applications in electronics, life sciences and many others. In recent years, graphene-based materials offer promising progress in biological and medical areas such as disease diagnosis, biosensing, cancer targeting, photothermal therapy and drug delivery. Graphene nanoribbon (GNR) is a 2d graphene sheet with high aspect ratio (the length is much longer than the width) are considered as a quasi 1d objects the limited space for electrons and phonons in the width of graphene nanoribbon results in an interesting properties like opening an electrical band gap as opposed to graphene with zero electrical band gap and change in phonon dispersion relation leading to changing in the light absorption of these material relative to graphene. GNRs have near-infrared absorption and they can be used in cancer photothermal therapy. On the other hand GNRs have sharp edges and can destructive effect on cell membrane so it is important to study their toxicity. So it is  important to study both useful and harmful aspects of GNR.
 
